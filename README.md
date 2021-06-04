@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Just random experiments and other things I'm able to share.
+Just random experiments, random public forks, and other things I'm able to share.
 
 <!--
 **jimathyp/jimathyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
