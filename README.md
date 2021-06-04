@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just some random things I'm able to share.
+
 <!--
 **jimathyp/jimathyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
